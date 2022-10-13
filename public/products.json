@@ -1,0 +1,158 @@
+[
+    {
+      "id": 1,
+      "name": "Smart Compression",
+      "details": "It’s compression that moves more blood to help prevent stasis. That tracks compliance with Patient Sensing technology.",
+      "features": [
+        "Hospitalized patients develop VTE each year.",
+        "Hospitalized patients receive appropriate prevention measures.",
+        "HA-VTE cases can be prevented."
+      ],
+      "rating": 4.3,
+      "price": 38.5,
+      "img": "./images/image-01.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Thermometers",
+      "details": "From single to dual-scale, our digital thermometers measure temperature rapidly and accurately in either Fahrenheit or Celsius.",
+      "features": [
+        "Easy-to-read LCD display.",
+        "Last temperature taken memory capability.",
+        "Auto turn-off after five (5) minutes of inactivity."
+      ],
+      "rating": 4.9,
+      "price": 6.5,
+      "img": "./images/image-02.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Electronic Thermometer",
+      "details": "The Electronic thermometer utilizes advanced technology to provide the accurate and fast readings in multiple easy-to-use formats.",
+      "features": [
+        "Ready to use out of the box.",
+        "Stands upright on a flat surface.",
+        "Cold mode for hypothermic patients."
+      ],
+      "rating": 4.1,
+      "price": 10,
+      "img": "./images/image-03.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Stethoscopes",
+      "details": "Single-patient-use stethoscopes help to prevent cross-contamination, with single-patient-use options available in all plastic.",
+      "features": [
+        "Chrome-plated brass binaural.",
+        "Light-weight anodized aluminum chest piece.",
+        "Choose from a variety of colors."
+      ],
+      "rating": 3.5,
+      "price": 20.5,
+      "img": "./images/image-04.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Recording Paper",
+      "details": "Cardinal Health manufactures one the largest offerings of recording chart papers in the industry.",
+      "features": [
+        "Easy-to-read grids with extended timelines.",
+        "Full line of video imaging.",
+        "Pages numbered consecutively."
+      ],
+      "rating": 4.5,
+      "price": 2.5,
+      "img": "./images/image-05.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Disposable NPWT",
+      "details": "Disposable NPWT solutions can help reduce the risk of cross-contamination that may lead to costly events readmissions.",
+      "features": [
+        "High performance with a powerful yet quiet motor.",
+        "Portable size.",
+        "Dual-lumen tubing technology."
+      ],
+      "rating": 3.3,
+      "price": 9,
+      "img": "./images/image-06.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Alginate Dressings",
+      "details": "Dressing absorbs exudate, forms a gel that keeps the wound moist and protects from contamination.",
+      "features": [
+        "Deep & tunneling wounds.",
+        "Venous ulcers.",
+        "Abrasions/lacerations/skin tears."
+      ],
+      "rating": 4.2,
+      "price": 6.5,
+      "img": "./images/image-07.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Hydrocolloids",
+      "details": "Hydrocolloid dressings consist of a wound contact layer of hydrocolloids and a semi-permeable, polyurethane film backing.",
+      "features": [
+        "Pressure ulcers.",
+        "Dermatological excisions.",
+        "Second-degree burns."
+      ],
+      "rating": 2.8,
+      "price": 15.5,
+      "img": "./images/image-08.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Cardiothoracic",
+      "details": "Innovative solutions for every situation. Cardinal Health offers a complete line of chest drainage products and accessories.",
+      "features": [
+        "Dry suction CDU.",
+        "Three basic chambers.",
+        "Dry suction mechanical regulator."
+      ],
+      "rating": 4.8,
+      "price": 54.5,
+      "img": "./images/image-09.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Stuff Cooling",
+      "details": "The untethered solution to keep clinicians cool and comfortable in the OR.",
+      "features": [
+        "Lightweight, disposable design.",
+        "Belt for adjustable fit.",
+        "Non-sterile, worn underneath PPE."
+      ],
+      "rating": 3.9,
+      "price": 6,
+      "img": "./images/image-10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Rollator Walkers",
+      "details": "Our rollators offer a safe and durable option for assisting you with your mobility.",
+      "features": [
+        "Built with care.",
+        "Wide range of weight-bearing.",
+        "Safe and durable option."
+      ],
+      "rating": 4.7,
+      "price": 16,
+      "img": "./images/image-11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Surgical Gloves",
+      "details": "You give everything to your patients, it’s who you are.  Just as it’s in your instinct to provide care.",
+      "features": [
+        "Second-skin comfort of natural rubber latex.",
+        "Proprietary hand mold.",
+        "Featuring an interlocking."
+      ],
+      "rating": 4.9,
+      "price": 1.5,
+      "img": "./images/image-12.jpg"
+    }
+  ]

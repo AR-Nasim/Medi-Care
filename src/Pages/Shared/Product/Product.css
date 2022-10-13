@@ -1,0 +1,22 @@
+.btn-custom{
+    color: white;
+    padding: 5px 10px;
+    transition: .4s;
+    background-color: #00b894;
+    border: 2px solid #00b894;
+    outline: none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.btn-custom:hover{
+    background-color: transparent;
+    color: #00b894;
+}
+.card{
+    border-radius: 15px;
+}
+.card:hover{
+    transition: .5s;
+    box-shadow: 1px 1px 20px lightgray;
+    transform: scale(1.02);
+}

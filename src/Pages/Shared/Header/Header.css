@@ -1,0 +1,12 @@
+.navbar{
+    position: absolute;
+    width: 100%;
+    top: 0;
+    z-index: 5;
+}
+.link{
+    color: #00b894;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 22px;
+}
